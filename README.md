@@ -1,3 +1,20 @@
+#  React Video Call Project [(LIVE)](https://burhan-saglanmak-video-call.netlify.app/)
+
+- a project where you can meet with multiple people and share screens
+- Please get api key (https://www.zegocloud.com/)
+
+# Screenshot
+
+![Ekran görüntüsü 2023-08-30 150208](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/35b5ae4f-eefc-4796-8fd1-73b9c95bf572)
+![Ekran görüntüsü 2023-08-30 150222](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/4d7407ad-c39b-4cc9-aed9-fd9e6305a5c4)
+![Ekran görüntüsü 2023-08-30 150253](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/1dcdb4b2-33a5-4dc7-8669-802d1eb10519)
+![Ekran görüntüsü 2023-08-30 150331](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/3f8ea528-e653-4005-9088-0bd47585b302)
+![Ekran görüntüsü 2023-08-30 150316](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/07b6a86d-8a4f-46fc-93a5-5ae8536fdf50)
+![Ekran görüntüsü 2023-08-30 144424](https://github.com/BurhanSaglanmak/React-Case-Study/assets/104764065/93aec96b-76c5-4c3c-96d1-b35781ae99ae)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
