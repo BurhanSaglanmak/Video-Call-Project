@@ -1,6 +1,6 @@
 #  React Video Call Project [(LIVE)](https://burhan-saglanmak-video-call.netlify.app/)
 
-- a project where you can meet with multiple people and share screens
+- A project where you can meet with multiple people and share screens
 - Please get api key (https://www.zegocloud.com/)
 
 # Screenshot
